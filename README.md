@@ -37,7 +37,7 @@ cd ..
 
 Download following datasets:
 
-### 1. PASCAL-5$^i$
+### 1. PASCAL-5<sup>i</sup>
 
 Download PASCAL VOC2012 devkit (train/val data):
 
@@ -47,7 +47,7 @@ wget http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 
 Download PASCAL VOC2012 SDS extended mask annotations from our [Google Drive](https://drive.google.com/file/d/1UanyZIs9TtZCrMkOHKWEszqZ6ChTohaW/view?usp=drive_link).
 
-### 2. COCO-20$^i$
+### 2. COCO-20<sup>i</sup>
 
 Download COCO2014 train/val images and annotations:
 
