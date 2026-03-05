@@ -1,0 +1,29 @@
+
+:=========== Few-shot Seg. with HSNet ===========
+|             datapath: None                    
+|            benchmark: pascal                  
+|              logpath: pascal_DINO_v2_lr=2e-4  
+|                  bsz: 4                       
+|          prompt_loss: 0.5                     
+|            mask_loss: 0.01                    
+|            attn_loss: 0.01                    
+|        attn_drop_out: 0.5                     
+|           num_layers: 2                       
+|                   lr: 0.0002                  
+|         weight_decay: 1e-06                   
+|               epochs: 100                     
+|              nworker: 4                       
+|                 seed: 321                     
+|                 fold: 2                       
+|            condition: mask                    
+|           use_ignore: True                    
+|           local_rank: 0                       
+|            num_query: 50                      
+|        spt_num_query: 50                      
+|            concat_th: False                   
+|              use_log: False                   
+|                 load: ./dummy.pt              
+|           eval_flops: False                   
+|             backbone: dino                    
+:================================================
+
