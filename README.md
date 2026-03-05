@@ -45,7 +45,7 @@ Download PASCAL VOC2012 devkit (train/val data):
 wget http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 ```
 
-Download PASCAL VOC2012 SDS extended mask annotations from our [Google Drive].
+Download PASCAL VOC2012 SDS extended mask annotations from our [Google Drive](https://drive.google.com/file/d/1UanyZIs9TtZCrMkOHKWEszqZ6ChTohaW/view?usp=drive_link).
 
 ### 2. COCO-20$^i$
 
@@ -57,7 +57,7 @@ wget http://images.cocodataset.org/zips/val2014.zip
 wget http://images.cocodataset.org/annotations/annotations_trainval2014.zip
 ```
 
-Download COCO2014 train/val annotations from our Google Drive: [train2014.zip], [val2014.zip]. (and locate both train2014/ and val2014/ under annotations/ directory).
+Download COCO2014 train/val annotations from our Google Drive: [train2014.zip](https://drive.google.com/file/d/1qHDvFVvMlbwMEIuZUZMy-2RwJ-cdIZ_d/view?usp=drive_link), [val2014.zip](https://drive.google.com/file/d/18vIRsyzngFOatR0hb82ZkYfZhTPWuuq8/view?usp=drive_link). (and locate both train2014/ and val2014/ under annotations/ directory).
 
 ### 3. Image Encoder weights
 
