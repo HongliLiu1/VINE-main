@@ -104,3 +104,14 @@ sh scripts/train_coco.sh
 
 # Citation
 If you think this project is helpful in your research or for application, please feel free to leave a star⭐️ and cite our paper!
+```bash
+@misc{liu2026unifyviewsviewconsistentprototype,
+      title={Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation}, 
+      author={Hongli Liu and Yu Wang and Shengjie Zhao},
+      year={2026},
+      eprint={2603.05952},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.05952}, 
+}
+```
