@@ -61,7 +61,7 @@ Download COCO2014 train/val annotations from our Google Drive: [train2014.zip](h
 
 ### 3. Image Encoder weights
 
-Resnet : https://drive.google.com/drive/folders/1Hrz1wOxOZm4nllS7UMJel79AQrdvpj6v
+Resnet : [https://drive.google.com/drive/folders/1Hrz1wOxOZm4nllS7UMJel79AQrdvpj6v](https://drive.google.com/file/d/19UplNtIDMWkxX4EnQ1rwGzTkGJfcThLQ/view?usp=drive_link)
 VGG : https://download.pytorch.org/models/vgg16_bn-6c64b313.pth
 
 Create a directory '../dataset' for the above few-shot segmentation datasets and appropriately place each dataset to have following directory structure:
